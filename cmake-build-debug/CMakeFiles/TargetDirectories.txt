@@ -1,0 +1,3 @@
+C:/Users/Skl/CLionProjects/Lab2Encoding/cmake-build-debug/CMakeFiles/Lab2Encoding.dir
+C:/Users/Skl/CLionProjects/Lab2Encoding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Skl/CLionProjects/Lab2Encoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
